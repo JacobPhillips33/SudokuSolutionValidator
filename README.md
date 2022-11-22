@@ -2,7 +2,7 @@
 
 C# Console Application
 
-This C# application will evaluate a completed Sudoku Solution to determine whether it valid. 
+This C# application utilizes data-structures and algorithms to evaluate a completed Sudoku Solution and determine whether it is a valid solution. 
 It will return “True” if it is a valid solution or “False” if it is not.
 
 Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid 
