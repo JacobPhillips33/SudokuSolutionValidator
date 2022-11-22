@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {}
+    "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
+    "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
         "projectName": "SudokuSolutionValidator",
-        "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
+        "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",

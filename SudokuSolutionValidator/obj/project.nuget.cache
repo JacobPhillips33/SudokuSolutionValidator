@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hAnlzK5Nv05kDE142/SfoYOf9YEcsVZtpfbubEGAbtQRy1H3pKOjaojNncbRVk3NxUOvZ6nlrvnNpJ5Z3tU2A==",
+  "dgSpecHash": "7dC2kD/DG39pebyJyEKVL/06LBnohcSKmoF3jJj1zyblRrtcSbjED5sT6aYdWaZhGj4/v9zfRMNllXUSbtiY6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jake\\Desktop\\Repos\\SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
+  "projectFilePath": "C:\\Users\\Jake\\Desktop\\Repos\\005. SudokuSolutionValidator\\SudokuSolutionValidator\\SudokuSolutionValidator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
