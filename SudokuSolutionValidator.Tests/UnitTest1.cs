@@ -6,7 +6,11 @@ namespace SudokuSolutionValidator.Tests
         [MemberData(nameof(ValidateSolutionTestData))]
         public static void ValidateSolution(bool expected, int[][] board)
         {
+            // Act
+            var actual = Methods.ValidateSolution(board);
 
+            // Assert
+            Assert.Equal(expected, actual);
         }
 
         public static IEnumerable<object[]> ValidateSolutionTestData()
